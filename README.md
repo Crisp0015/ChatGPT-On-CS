@@ -23,7 +23,8 @@
 ## 开源社区
 如果有问题需要反馈，或者对项目有什么特性希望支持的，可以添加小助手微信加入开源项目交流群：
 
-![微信扫码添加客服](docs/contact.png)
+![微信扫码添加客服](![7976e57ff0784287a4f2d2029ff2d85](https://github.com/Crisp0015/ChatGPT-On-CS/assets/169279325/2955a069-d4f0-492a-baae-2c0af40b9791)
+)
 
 <!-- 
 ## 商业支持
@@ -31,12 +32,13 @@
 
 目前已在私域运营、智能客服、企业效率助手等场景积累了丰富的 AI 解决方案， 在电商、文教、健康、新消费等各行业沉淀了 AI 落地的最佳实践，致力于打造助力中小企业拥抱 AI 的一站式平台。 企业服务和商用咨询可联系产品顾问：
 
-![微信扫码添加客服](docs/contact.png) -->
+![微信扫码添加客服](![7976e57ff0784287a4f2d2029ff2d85](https://github.com/Crisp0015/ChatGPT-On-CS/assets/169279325/acbdfbd5-b05b-4813-8b52-3d8f10000feb)
+) -->
 
 
 ## 下载地址
 
-<a href="https://github.com/cs-lazy-tools/ChatGPT-On-CS/releases/download/v1.0.4/1.0.4.exe" style="display: inline-block; background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-weight: bold; border-radius: 5px; margin: 4px 2px; cursor: pointer;">点击下载</a>
+<a href="[文件：懒人客服 1.0.5-beta.exe]" style="display: inline-block; background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-weight: bold; border-radius: 5px; margin: 4px 2px; cursor: pointer;">点击下载</a>
 
 如果网络环境导致下载不了，可以使用百度云盘下载：
 
